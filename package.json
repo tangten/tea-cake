@@ -1,0 +1,22 @@
+{
+  "name": "@tangten/tea-cake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangten/tea-cake.git"
+  },
+  "author": "Ten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangten/tea-cake/issues"
+  },
+  "homepage": "https://github.com/tangten/tea-cake#readme",
+  "description": "",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
