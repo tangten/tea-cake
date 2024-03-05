@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tangten/tea-cake.git"
+    "url": "https://github.com/tangten/tea-cake.git"
   },
   "author": "Ten",
   "license": "ISC",
